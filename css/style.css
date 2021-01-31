@@ -1031,11 +1031,11 @@
 /* Banner */
 
 	#banner {
-		background-image: url(../images/dark_tint.png), url(../images/top.jpg);
+		background-image: url(../images/dark_tint.png), url(../images/top.jfif);
 		background-position: center center;
 		background-size: cover;
 		color: #ffffff;
-		padding: 14em 0em 14em;
+		padding: 6em 0em 6em;
 		text-align: center;
 	}
 
@@ -1045,7 +1045,7 @@
 
 		#banner h2 {
 			color: #ffffff;
-			font-size: 4em;
+			font-size: 3.5em;
 			line-height: 1.25em;
 			margin: 0 0 0.5em 0;
 			padding: 0;
